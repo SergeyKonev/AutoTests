@@ -1,8 +1,10 @@
+using NUnit.Allure.Core;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Support.UI;
 
 namespace TestProject
 {
+    [AllureNUnit]
     public class Tests
     {
         public Tests()

@@ -1,0 +1,48 @@
+{
+  "uuid": "0f6684b7-483e-4b2f-a403-fe21d752a340-tr-0-1003",
+  "historyId": "TestProject.Tests.Test3",
+  "fullName": "TestProject.Tests.Test3",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-QK2S9DS"
+    },
+    {
+      "name": "package",
+      "value": "TestProject"
+    },
+    {
+      "name": "testMethod",
+      "value": "Test3"
+    },
+    {
+      "name": "testClass",
+      "value": "Tests"
+    }
+  ],
+  "links": [],
+  "name": "Test3",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "Test3"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "a2575f5cfc08479f99e4622c429d8ea8-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1678384019119,
+  "stop": 1678384019849
+}
